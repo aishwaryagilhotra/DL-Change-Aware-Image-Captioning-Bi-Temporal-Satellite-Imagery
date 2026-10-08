@@ -1,2 +1,0 @@
-checkpoint,checkpoint_epoch,checkpoint_val_loss,vocab_size,classification_accuracy,classification_precision,classification_recall,classification_f1,segmentation_iou,segmentation_dice,segmentation_pixel_accuracy,bleu_1,bleu_2,bleu_3,bleu_4,meteor,rouge_l
-experiment2_best_model.pth,24,3.5814030792402183,860,0.8302502720348205,0.8387799564270153,0.8244111349036403,0.8315334773218143,0.0,0.0,0.9559521597280077,0.5629103903183708,0.5043038155992732,0.47383192577200306,0.4580545037678096,0.5459753788902241,0.5596878495477913
